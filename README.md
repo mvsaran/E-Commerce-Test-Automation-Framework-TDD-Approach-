@@ -1,4 +1,4 @@
-#🤖 E-Commerce Test Automation Framework (AI-Augmented TDD)
+## 🤖 E-Commerce Test Automation Framework (AI-Augmented TDD)
 
 ## 🎯 Overview
 This repository demonstrates an AI-Augmented Test-Driven Development (TDD) approach to building a Selenium test automation framework. By combining TDD principles with AI assistance, we create a robust test framework **before** application development begins.
