@@ -1,1 +1,4 @@
-com\selenium\mcp\DemoBlazePurchaseTest.class
+com\aiTDD\tests\LoginTest.class
+com\aiTDD\tests\CartTest.class
+com\aiTDD\tests\CheckoutTest.class
+com\aiTDD\tests\BaseTest.class

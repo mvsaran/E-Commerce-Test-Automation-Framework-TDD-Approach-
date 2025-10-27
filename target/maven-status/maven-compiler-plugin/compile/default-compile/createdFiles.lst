@@ -1,1 +1,8 @@
+com\aiTDD\pages\LoginPage.class
+com\aiTDD\pages\CartPage.class
+com\aiTDD\utils\TestDataProvider.class
+com\aiTDD\pages\CheckoutPage.class
+com\aiTDD\utils\ConfigReader.class
 com\selenium\mcp\App.class
+com\aiTDD\pages\BasePage.class
+com\selenium\mcp\MCPSeleniumHelper.class
